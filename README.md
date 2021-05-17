@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DSP Optimization on ARM Cortex A76**
 
-- 📫 How to reach me **vijayp.work@gmai.com**
+- 📫 How to reach me **vijayp.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
