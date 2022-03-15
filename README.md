@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypanchal&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypanchal" /> </p>
 
-- 🔭 I’m currently working on **Audio Optimization Using ARMv8 Assembly for Android Audio HAL Layer & Linux OS Build for RISC V**
+- 🔭 I’m currently working on **Audio Optimization Using ARMv8 Assembly for Android Audio HAL Layer & Linux OS Build for RISC-V Architecture**
 
 - 📫 How to reach me **vijayp.work@gmail.com**
 
