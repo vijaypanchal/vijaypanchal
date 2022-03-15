@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vijay P</h1>
-<h3 align="center">A passionate Embedded Enginner,Linux Enthusiastic,from India</h3>
+<h3 align="center">Embedded Firmware Enginner,Linux Enthusiastic, from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypanchal&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypanchal" /> </p>
 
-- 🔭 I’m currently working on **DSP Optimization on ARM Cortex A76**
+- 🔭 I’m currently working on **Audio Optimization Using ARMv8 Assembly for Android Audio HAL Layer & Linux OS Build for RISC V**
 
 - 📫 How to reach me **vijayp.work@gmail.com**
 
