@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vijay P</h1>
-<h3 align="center">Embedded Firmware Enginner,Linux Enthusiastic, from India</h3>
+<h1 align="center">Hi 👋, I'm Vijay Panchal</h1>
+<h2 align="center">Embedded Firmware Enginner  from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypanchal&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypanchal" /> </p>
 
-- 🔭 I’m currently working on **Audio Optimization Using ARMv8 Assembly for Android Audio HAL Layer & Linux OS Build for RISC-V Architecture**
-
-- 📫 How to reach me **vijayp.work@gmail.com**
+- I am having 6 Years of Experience with Embedded System and Firmware Development
+- 
+- How to reach me **vijayp.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
