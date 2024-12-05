@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypanchal&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypanchal" /> </p>
 
-- I have 6 Years of Experience with Embedded System and Firmware Development include development of Micro controllers to SBCs.
+- I have 9 Years of Experience with Embedded System and Firmware Development include development of Micro controllers to SBCs.
 - **How to reach me at** **vijayp.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
