@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi 👋, I'm Vijay Panchal</h1>
 <h2 align="center">Embedded Firmware Enginner  from India</h2>
 
