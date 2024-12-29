@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi 👋, I'm Vijay Panchal</h1>
 <h2 align="center">Embedded Firmware Enginner  from India</h2>
 
@@ -7,9 +8,7 @@
 - **How to reach me at** **vijayp.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/vjy_panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vjy_panchal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vijaykpanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vkpanchal-07041992" height="30" width="40" /></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vijaykpanchal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vijaykpanchal?trk=profile-badge">Vijay P.</a></div>    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,3 +44,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaypanchal&show_icons=true&locale=en" alt="vijaypanchal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaypanchal&" alt="vijaypanchal" /></p>
+
+
+
+              
