@@ -7,7 +7,7 @@
 - **How to reach me at** **vijayp.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vijaykpanchal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vijaykpanchal?trk=profile-badge">Vijay P.</a></div>    
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vijaykpanchal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/">Vijay P.</a></div>    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
