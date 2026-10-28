@@ -1,49 +1,22 @@
-<h1 align="center">Hi 👋, I'm Vijay Panchal</h1>
-<h2 align="center">Embedded Firmware Enginner  from India</h2>
+# Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaypanchal&label=Profile%20views&color=0e75b6&style=flat" alt="vijaypanchal" /> </p>
+I am a passionate Embedded Systems & Platform Engineer focusing on low-level hardware optimization, operating systems, and edge AI integration. I specialize in Linux kernel development, device drivers, bare-metal programming, and real-time systems (including FreeRTOS and Zephyr RTOS)[span_0](start_span)[span_0](end_span). 
 
-- I have 11 Years of Experience with Embedded System and Firmware Development.
-- **How to reach me at** **vijayp.work@gmail.com**
+## 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vijaykpanchal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/">Vijay P.</a></div>    
-</p>
+*   **Programming Languages:** C, C++ (OOPS), NEON SIMD Assembly (ARMv7/v8), Python, VHDL, Verilog, and Shell[span_1](start_span)[span_1](end_span).
+*   **OS & Platforms:** Linux Kernel, FreeRTOS, Zephyr RTOS, Bare-metal, Debian, AOSP, and Yocto[span_2](start_span)[span_2](end_span).
+*   **Hardware & Architectures:** ARM Cortex-A/M, RISC-V, AArch32/AArch64, Raspberry Pi, BeagleBone, and 16/32-bit Microcontrollers.
+*   **Protocols & Connectivity:** PCIe, BLE, Zigbee, RF, Z-Wave, I2C, SPI, and UART[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span).
+*   **Applied Edge AI:** Local LLM Quantization (4-bit), AI-Assisted Coding workflows, Edge AI Deployment, and LangGraph[span_5](start_span)[span_5](end_span).
+*   **Debugging & Tools:** GNU toolchains, GDB, logic analyzers, oscilloscopes, Git, and CI/CD pipelines[span_6](start_span)[span_6](end_span).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.arduino.cc/" target="_blank"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"     alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a> 
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.yoctoproject.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yoctoproject/yoctoproject.svg" alt="yocto project" width="40" height="40"/> 
-    </a>
-</p>
+## 🔭 Current Interests & Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaypanchal&show_icons=true&locale=en&layout=compact" alt="vijaypanchal" /></p>
+*   Developing system software across the boot and runtime path, including firmware-to-OS handoffs and robust memory management interfaces[span_7](start_span)[span_7](end_span).
+*   Exploring AI-accelerated workflows, such as cross-compiling and deploying self-hosted LLM servers on resource-constrained single-board computers[span_8](start_span)[span_8](end_span)[span_9](start_span)[span_9](end_span).
+*   Hardware schematics review, component-level PCB debugging, and post-silicon board bring-up[span_10](start_span)[span_10](end_span)[span_11](start_span)[span_11](end_span).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaypanchal&show_icons=true&locale=en" alt="vijaypanchal" /></p>
+## 📫 Let's Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaypanchal&" alt="vijaypanchal" /></p>
-
-
-
-              
+*   **Email:** v.panchal.eng@gmail.com
